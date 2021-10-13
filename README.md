@@ -1,7 +1,6 @@
-# cs50w-project0
+# Nic-ARTeam WebPage
 
-Esta pagina web es una pagina ficticia inspirada en el nombre y logo que cree hace un tiempo para un proyecto de unos amigos,
-es una empresa multi tecnologica y de soluciones varias con mucha mucha pero que mucha labia xd.
+Esta es la pagina web oficial de Nic-ARTeam donde damos a conocer al equipo,el proyecto y las tecnologias empleadas
 
 la pagina esta  conformada por:
 
