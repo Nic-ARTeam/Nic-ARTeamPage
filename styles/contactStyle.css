@@ -1,9 +1,9 @@
 /* Scss Document */
 body
 {
-	background-image: url("../images/pattern.jpg");
-	background-size: 200px;
-	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-image: url("../images/pattern.png");
+	background-size: 400px;
+	font-family: "Open Sans", sans-serif;
 }
 
 h1,h2,h3
@@ -18,7 +18,7 @@ h1,h2,h3
 
 .card-group
 {
-	margin-bottom: 5%;	
+	margin-bottom: 5%;
 }
 .card-img-top
 {
@@ -147,7 +147,7 @@ background: linear-gradient(to bottom, #5881cc, #194aa3); /* W3C, IE 10+/ Edge, 
 	}
 	.Product-card
 	{
-		margin: 10vh;			
+		margin: 10vh;
 	}
 }
 
@@ -157,7 +157,7 @@ background: linear-gradient(to bottom, #5881cc, #194aa3); /* W3C, IE 10+/ Edge, 
 	background: linear-gradient(to bottom, #5881cc, #194aa3);
 	color:#ffffff;
   }
-  
+
   .footer-basic ul {
 	padding:0;
 	list-style:none;
@@ -165,26 +165,26 @@ background: linear-gradient(to bottom, #5881cc, #194aa3); /* W3C, IE 10+/ Edge, 
 	line-height:1.6;
 	margin-bottom:0;
   }
-  
+
   .footer-basic li {
 	padding:0 10px;
   }
-  
+
   .footer-basic ul a {
 	color:inherit;
 	text-decoration:none;
 	opacity:0.8;
   }
-  
+
   .footer-basic ul a:hover {
 	opacity:1;
   }
-  
+
   .footer-basic .social {
 	text-align:center;
 	padding-bottom:25px;
   }
-  
+
   .footer-basic .social > a {
 	font-size:24px;
 	width:40px;
@@ -198,11 +198,11 @@ background: linear-gradient(to bottom, #5881cc, #194aa3); /* W3C, IE 10+/ Edge, 
 	color:inherit;
 	opacity:0.75;
   }
-  
+
   .footer-basic .social > a:hover {
 	opacity:0.9;
   }
-  
+
   .footer-basic .copyright {
 	margin-top:15px;
 	text-align:center;
@@ -210,5 +210,5 @@ background: linear-gradient(to bottom, #5881cc, #194aa3); /* W3C, IE 10+/ Edge, 
 	color:rgb(255, 255, 255);
 	margin-bottom:0;
   }
-  
+
 

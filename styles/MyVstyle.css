@@ -1,8 +1,10 @@
 /* Scss Document */
-body {
-  background-image: url("../images/pattern.jpg");
-  background-size: 200px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+body
+{
+	background-image: url("../images/pattern.png");
+	background-size: 400px;
+	font-family: "Open Sans", sans-serif;
+}
 
 /*ejemplo de extend en scss (ver MyVstyle.scss)*/
 h1, h2, h3 {
