@@ -25,6 +25,18 @@ h1,h2,h3
 	padding: 2%;
 }
 
+.card-project{
+	width: 25vw;
+}
+
+.container-fluid {
+  height: 90%;
+  width: 100%;
+}
+
+.carousel-inner img {
+  height: 300px;
+}
 .FB-spacebetwen-column
 {
 	display: flex;
